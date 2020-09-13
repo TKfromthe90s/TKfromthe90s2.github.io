@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Student Information
+- Name: Tyler Kirkland
+- E-mail: tk05802@georgiasouthern.edu
+- Cell phone: 470-343-5237 
+
+## Project Overview
+- The overall purpose of this project is to create a small, simple, and unique video game, within the provided time period. 
+- The project outcomes are to ensure rthe project functions as a laptop or desktop executable file, remains bug-free, provides enjoyment to those who donwload and play it, and above all, fulfills the requirements of this project.
+- Features include engaging visuals and enjoyable gameplay.
+
+## Project Deliverables
+- The project deliverables will include the readme file, a user manual, and the desktop executable file itself.
 
 You can use the [editor on GitHub](https://github.com/TKfromthe90s/TKfromthe90s2.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
