@@ -1,7 +1,7 @@
 ## Student Information
 - Name: Tyler Kirkland
 - E-mail: tk05802@georgiasouthern.edu
-- Cell phone: 470-343-5237 
+- Cell Phone: 470-343-5237 
 
 ## Project Overview
 - The overall purpose of this project is to create a small, simple, and unique video game, within the provided time period. 
@@ -10,6 +10,14 @@
 
 ## Project Deliverables
 - The project deliverables will include the readme file, a user manual, and the desktop executable file itself.
+
+## Project Details
+- Project Objecrtives: The product/project itself is intended to entertain. The phrases of the project are planning, pre-production, production, testing, and launch. The learning objectives are to improve my own skill with coding and to provide myself with additional experience in independent game development.
+- Analysis Report: Link coming soon!
+- Weekly Time Log Reports: Link coming soon!
+- Progress Reports: Link coming soon!
+- Most Meaningfful Objective Report: Link coming soon!
+- Final Project: Link coming soon! 
 
 You can use the [editor on GitHub](https://github.com/TKfromthe90s/TKfromthe90s2.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
